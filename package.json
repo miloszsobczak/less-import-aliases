@@ -1,0 +1,28 @@
+{
+  "name": "less-import-aliases",
+  "version": "1.0.0",
+  "description": "LESS plugin to use aliases in @importing files.",
+  "main": "index.js",
+  "dependencies": {
+    "readable-stream": "2.0.1",
+    "replacestream": "4.0.0",
+    "resolve": "1.1.6",
+    "promise": "7.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miloszsobczak/less-import-aliases"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulpplugin",
+    "alias",
+    "less alias",
+    "import",
+    "paths"
+  ],
+  "author": "Miłosz Sobczak <miloszsobczak@pixers.pl>",
+  "license": "BSD"
+}
