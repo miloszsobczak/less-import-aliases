@@ -1,6 +1,6 @@
 {
   "name": "less-import-aliases",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "LESS plugin to use aliases in @importing files.",
   "main": "index.js",
   "dependencies": {
@@ -18,8 +18,14 @@
   },
   "keywords": [
     "gulpplugin",
-    "alias",
+    "gulp plugin",
+    "gulp",
+    "less",
+    "less plugin",
     "less alias",
+    "import alias"
+    "import aliases",
+    "alias",
     "import",
     "paths"
   ],
